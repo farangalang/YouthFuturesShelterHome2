@@ -13125,11 +13125,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jared\\Documents\\GitHub\\NewYouthFutures\\MyYouthFutures\\MyYouthFutures\\MyYouthFutures.csproj",
+      "projectUniqueName": "C:\\Users\\Jared\\Documents\\GitHub\\YouthFuturesShelterHome2\\MyYouthFutures\\MyYouthFutures.csproj",
       "projectName": "MyYouthFutures",
-      "projectPath": "C:\\Users\\Jared\\Documents\\GitHub\\NewYouthFutures\\MyYouthFutures\\MyYouthFutures\\MyYouthFutures.csproj",
+      "projectPath": "C:\\Users\\Jared\\Documents\\GitHub\\YouthFuturesShelterHome2\\MyYouthFutures\\MyYouthFutures.csproj",
       "packagesPath": "C:\\Users\\Jared\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jared\\Documents\\GitHub\\NewYouthFutures\\MyYouthFutures\\MyYouthFutures\\obj\\",
+      "outputPath": "C:\\Users\\Jared\\Documents\\GitHub\\YouthFuturesShelterHome2\\MyYouthFutures\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
