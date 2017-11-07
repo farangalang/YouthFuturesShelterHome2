@@ -54,7 +54,7 @@ namespace MyYouthFutures.Data
 
             var services_messages = new Services_Message[]
             {
-                new Services_Message{MessageImage="Image 1", MessageHeader="Header 1", Message="Located in the heart of downtown Ogden, Utah, Youth Futures provides emergency shelter, temporary residence and supportive services for runaway, homeless, unaccompanied and at-risk youth ages 12-17. The shelter is open 24 hours per day."},
+                new Services_Message{MessageImage="~/images/house_icon.png", MessageHeader="Overnight Shelter", Message="Located in the heart of downtown Ogden, Utah, Youth Futures provides emergency shelter, temporary residence and supportive services for runaway, homeless, unaccompanied and at-risk youth ages 12-17. The shelter is open 24 hours per day."},
                 new Services_Message{MessageImage="Image 2", MessageHeader="Header 2", Message="Message 2"},
                 new Services_Message{MessageImage="Image 3", MessageHeader="Header 3", Message="Message 3"}
             };

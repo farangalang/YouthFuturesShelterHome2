@@ -44,13 +44,13 @@
                     <div class="boxes">
                         <article class="col-xs-3 panel">
                             <section class="panel-img-container">
-                                <img src="@Html.DisplayFor(modelItem => item.MessageImage)" alt="House" class="panel-img" />
+                                <img src="@Url.Content(@item.MessageImage)" alt="House" class="panel-img" />
                             </section>
                             <section>
                                 <p class="quicksand-light-32 panel-heading">@Html.DisplayFor(modelItem => item.MessageHeader)</p>
                             </section>
                             <section>
-                                <p class="mont-light-light-18 panel-summary">Located in the heart of downtown Ogdece a. @Html.DisplayFor(modelItem => item.Message)</p>
+                                <p class="mont-light-light-18 panel-summary">@Html.DisplayFor(modelItem => item.Message)</p>
                             </section>
                             <section class="panel-footer">
                                 <p class="quicksand-light-24-green"><a href="#">Learn more ></a></p>
