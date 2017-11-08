@@ -9,6 +9,7 @@ C:\Users\Jared\Documents\GitHub\NewYouthFutures\MyYouthFutures\MyYouthFutures\ob
 C:\Users\Jared\Documents\GitHub\NewYouthFutures\MyYouthFutures\MyYouthFutures\obj\Debug\netcoreapp2.0\MyYouthFutures.AssemblyInfo.cs
 C:\Users\Jared\Documents\GitHub\NewYouthFutures\MyYouthFutures\MyYouthFutures\obj\Debug\netcoreapp2.0\MyYouthFutures.dll
 C:\Users\Jared\Documents\GitHub\NewYouthFutures\MyYouthFutures\MyYouthFutures\obj\Debug\netcoreapp2.0\MyYouthFutures.pdb
+<<<<<<< HEAD
 C:\Users\Jared\Documents\GitHub\YouthFuturesShelterHome2\MyYouthFutures\bin\Debug\netcoreapp2.0\MyYouthFutures.deps.json
 C:\Users\Jared\Documents\GitHub\YouthFuturesShelterHome2\MyYouthFutures\bin\Debug\netcoreapp2.0\MyYouthFutures.runtimeconfig.json
 C:\Users\Jared\Documents\GitHub\YouthFuturesShelterHome2\MyYouthFutures\bin\Debug\netcoreapp2.0\MyYouthFutures.runtimeconfig.dev.json
@@ -20,3 +21,5 @@ C:\Users\Jared\Documents\GitHub\YouthFuturesShelterHome2\MyYouthFutures\obj\Debu
 C:\Users\Jared\Documents\GitHub\YouthFuturesShelterHome2\MyYouthFutures\obj\Debug\netcoreapp2.0\MyYouthFutures.AssemblyInfo.cs
 C:\Users\Jared\Documents\GitHub\YouthFuturesShelterHome2\MyYouthFutures\obj\Debug\netcoreapp2.0\MyYouthFutures.dll
 C:\Users\Jared\Documents\GitHub\YouthFuturesShelterHome2\MyYouthFutures\obj\Debug\netcoreapp2.0\MyYouthFutures.pdb
+=======
+>>>>>>> parent of 33e5124... modified panels

@@ -13130,6 +13130,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of cae2342... Merge branch 'scotthadzik'
 =======
@@ -13164,6 +13165,13 @@
 >>>>>>> parent of cae2342... Merge branch 'scotthadzik'
 =======
 >>>>>>> parent of cae2342... Merge branch 'scotthadzik'
+=======
+      "projectUniqueName": "C:\\Users\\Jared\\Documents\\GitHub\\NewYouthFutures\\MyYouthFutures\\MyYouthFutures\\MyYouthFutures.csproj",
+      "projectName": "MyYouthFutures",
+      "projectPath": "C:\\Users\\Jared\\Documents\\GitHub\\NewYouthFutures\\MyYouthFutures\\MyYouthFutures\\MyYouthFutures.csproj",
+      "packagesPath": "C:\\Users\\Jared\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jared\\Documents\\GitHub\\NewYouthFutures\\MyYouthFutures\\MyYouthFutures\\obj\\",
+>>>>>>> parent of 33e5124... modified panels
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
