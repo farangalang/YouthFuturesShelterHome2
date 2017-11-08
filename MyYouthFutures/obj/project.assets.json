@@ -13116,7 +13116,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Scott\\.nuget\\packages\\": {},
+    "C:\\Users\\jared.fernelius\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -13125,17 +13125,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Scott\\Box Sync\\Personal\\CS (scotthadzik@weber.edu)\\CS 3750\\YouthFuturesShelterHome2\\MyYouthFutures\\MyYouthFutures.csproj",
+      "projectUniqueName": "C:\\Users\\jared.fernelius\\Documents\\GitHub\\YouthFuturesShelterHome2\\MyYouthFutures\\MyYouthFutures.csproj",
       "projectName": "MyYouthFutures",
-      "projectPath": "C:\\Users\\Scott\\Box Sync\\Personal\\CS (scotthadzik@weber.edu)\\CS 3750\\YouthFuturesShelterHome2\\MyYouthFutures\\MyYouthFutures.csproj",
-      "packagesPath": "C:\\Users\\Scott\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Scott\\Box Sync\\Personal\\CS (scotthadzik@weber.edu)\\CS 3750\\YouthFuturesShelterHome2\\MyYouthFutures\\obj\\",
+      "projectPath": "C:\\Users\\jared.fernelius\\Documents\\GitHub\\YouthFuturesShelterHome2\\MyYouthFutures\\MyYouthFutures.csproj",
+      "packagesPath": "C:\\Users\\jared.fernelius\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jared.fernelius\\Documents\\GitHub\\YouthFuturesShelterHome2\\MyYouthFutures\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Scott\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jared.fernelius\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
