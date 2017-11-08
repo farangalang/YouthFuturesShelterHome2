@@ -3,6 +3,7 @@
     ViewData["Title"] = "Home Page Demo";
 }
 
+
 <section class="container-fluid main-header">
     <div class="row">
         <div class="col-xs-12 header-box">
@@ -35,7 +36,10 @@
     </div>
 </section>
 
+        @foreach (var item in Model)
+        {
 
+<<<<<<< HEAD
 <section>
     <div class="row">
         <div class="boxes">
@@ -62,10 +66,33 @@
 
 
                      < a asp - action = "Delete" asp - route - id = "@item.ID" > Delete </ a >*@
+=======
+            <section>
+                <div class="row">
+                    <div class="boxes">
+                        <article class="col-xs-3 panel">
+                            <section class="panel-img-container">
+                                <img src="@Html.DisplayFor(modelItem => item.MessageImage)" alt="House" class="panel-img" />
+                            </section>
+                            <section>
+                                <p class="quicksand-light-32 panel-heading">@Html.DisplayFor(modelItem => item.MessageHeader)</p>
+                            </section>
+                            <section>
+                                <p class="mont-light-light-18 panel-summary">Located in the heart of downtown Ogdece a. @Html.DisplayFor(modelItem => item.Message)</p>
+                            </section>
+                            <section class="panel-footer">
+                                <p class="quicksand-light-24-green"><a href="#">Learn more ></a></p>
+                            </section>
+                        </article>
+                    </div>
+                </div>
+                <a asp-action="Edit" asp-route-id="@item.ID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.ID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.ID">Delete</a>
+            </section>
+>>>>>>> parent of 33e5124... modified panels
         }
-        </div>
-    </div>
-</section>
+
 
 
 <article class="container-fluid purpose-box">
