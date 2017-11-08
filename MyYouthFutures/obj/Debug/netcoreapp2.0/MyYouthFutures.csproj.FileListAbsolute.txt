@@ -9,14 +9,14 @@ C:\Users\Jared\Documents\GitHub\NewYouthFutures\MyYouthFutures\MyYouthFutures\ob
 C:\Users\Jared\Documents\GitHub\NewYouthFutures\MyYouthFutures\MyYouthFutures\obj\Debug\netcoreapp2.0\MyYouthFutures.AssemblyInfo.cs
 C:\Users\Jared\Documents\GitHub\NewYouthFutures\MyYouthFutures\MyYouthFutures\obj\Debug\netcoreapp2.0\MyYouthFutures.dll
 C:\Users\Jared\Documents\GitHub\NewYouthFutures\MyYouthFutures\MyYouthFutures\obj\Debug\netcoreapp2.0\MyYouthFutures.pdb
-C:\Users\Scott\Box Sync\Personal\CS (scotthadzik@weber.edu)\CS 3750\YouthFuturesShelterHome2\MyYouthFutures\obj\Debug\netcoreapp2.0\MyYouthFutures.dll
-C:\Users\Scott\Box Sync\Personal\CS (scotthadzik@weber.edu)\CS 3750\YouthFuturesShelterHome2\MyYouthFutures\obj\Debug\netcoreapp2.0\MyYouthFutures.pdb
 C:\Users\Scott\Box Sync\Personal\CS (scotthadzik@weber.edu)\CS 3750\YouthFuturesShelterHome2\MyYouthFutures\bin\Debug\netcoreapp2.0\MyYouthFutures.deps.json
 C:\Users\Scott\Box Sync\Personal\CS (scotthadzik@weber.edu)\CS 3750\YouthFuturesShelterHome2\MyYouthFutures\bin\Debug\netcoreapp2.0\MyYouthFutures.runtimeconfig.json
 C:\Users\Scott\Box Sync\Personal\CS (scotthadzik@weber.edu)\CS 3750\YouthFuturesShelterHome2\MyYouthFutures\bin\Debug\netcoreapp2.0\MyYouthFutures.runtimeconfig.dev.json
 C:\Users\Scott\Box Sync\Personal\CS (scotthadzik@weber.edu)\CS 3750\YouthFuturesShelterHome2\MyYouthFutures\bin\Debug\netcoreapp2.0\MyYouthFutures.dll
 C:\Users\Scott\Box Sync\Personal\CS (scotthadzik@weber.edu)\CS 3750\YouthFuturesShelterHome2\MyYouthFutures\bin\Debug\netcoreapp2.0\MyYouthFutures.pdb
-C:\Users\Scott\Box Sync\Personal\CS (scotthadzik@weber.edu)\CS 3750\YouthFuturesShelterHome2\MyYouthFutures\obj\Debug\netcoreapp2.0\MyYouthFutures.csprojResolveAssemblyReference.cache
 C:\Users\Scott\Box Sync\Personal\CS (scotthadzik@weber.edu)\CS 3750\YouthFuturesShelterHome2\MyYouthFutures\obj\Debug\netcoreapp2.0\MyYouthFutures.csproj.CoreCompileInputs.cache
 C:\Users\Scott\Box Sync\Personal\CS (scotthadzik@weber.edu)\CS 3750\YouthFuturesShelterHome2\MyYouthFutures\obj\Debug\netcoreapp2.0\MyYouthFutures.AssemblyInfoInputs.cache
 C:\Users\Scott\Box Sync\Personal\CS (scotthadzik@weber.edu)\CS 3750\YouthFuturesShelterHome2\MyYouthFutures\obj\Debug\netcoreapp2.0\MyYouthFutures.AssemblyInfo.cs
+C:\Users\Scott\Box Sync\Personal\CS (scotthadzik@weber.edu)\CS 3750\YouthFuturesShelterHome2\MyYouthFutures\obj\Debug\netcoreapp2.0\MyYouthFutures.dll
+C:\Users\Scott\Box Sync\Personal\CS (scotthadzik@weber.edu)\CS 3750\YouthFuturesShelterHome2\MyYouthFutures\obj\Debug\netcoreapp2.0\MyYouthFutures.pdb
+C:\Users\Scott\Box Sync\Personal\CS (scotthadzik@weber.edu)\CS 3750\YouthFuturesShelterHome2\MyYouthFutures\obj\Debug\netcoreapp2.0\MyYouthFutures.csprojResolveAssemblyReference.cache
