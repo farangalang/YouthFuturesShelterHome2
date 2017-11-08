@@ -1,0 +1,10 @@
+
+*.lock
+.vs/MyYouthFutures/v15/Server/sqlite3/db.lock
+.vs/MyYouthFutures/v15/Server/sqlite3/storage.ide
+.vs/MyYouthFutures/v15/Server/sqlite3/storage.ide-shm
+.vs/MyYouthFutures/v15/Server/sqlite3/storage.ide-wal
+MyYouthFutures/bin/Debug/netcoreapp2.0/MyYouthFutures.dll
+MyYouthFutures/bin/Debug/netcoreapp2.0/MyYouthFutures.pdb
+MyYouthFutures/obj/Debug/netcoreapp2.0/MyYouthFutures.csproj.CoreCompileInputs.cache
+MyYouthFutures/obj/Debug/netcoreapp2.0/MyYouthFutures.dll
