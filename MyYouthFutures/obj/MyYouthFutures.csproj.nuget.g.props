@@ -7,6 +7,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">C:\Users\Jared\Documents\GitHub\YouthFuturesShelterHome2\MyYouthFutures\obj\project.assets.json</ProjectAssetsFile>
 =======
     <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">C:\Users\Scott\Box Sync\Personal\CS (scotthadzik@weber.edu)\CS 3750\YouthFuturesShelterHome2\MyYouthFutures\obj\project.assets.json</ProjectAssetsFile>
@@ -14,6 +15,9 @@
 =======
     <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">C:\Users\Jared\Documents\GitHub\NewYouthFutures\MyYouthFutures\MyYouthFutures\obj\project.assets.json</ProjectAssetsFile>
 >>>>>>> parent of 33e5124... modified panels
+=======
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">C:\Users\Jared\Documents\GitHub\YouthFuturesShelterHome2\MyYouthFutures\obj\project.assets.json</ProjectAssetsFile>
+>>>>>>> parent of cae2342... Merge branch 'scotthadzik'
 =======
     <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">C:\Users\Jared\Documents\GitHub\YouthFuturesShelterHome2\MyYouthFutures\obj\project.assets.json</ProjectAssetsFile>
 >>>>>>> parent of cae2342... Merge branch 'scotthadzik'
