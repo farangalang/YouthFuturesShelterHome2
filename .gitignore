@@ -3,6 +3,7 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+<<<<<<< HEAD
 # User-specific files
 *.suo
 *.user
@@ -303,3 +304,14 @@ __pycache__/
 
 # OpenCover UI analysis results
 OpenCover/
+=======
+*.lock
+.vs/MyYouthFutures/v15/Server/sqlite3/db.lock
+.vs/MyYouthFutures/v15/Server/sqlite3/storage.ide
+.vs/MyYouthFutures/v15/Server/sqlite3/storage.ide-shm
+.vs/MyYouthFutures/v15/Server/sqlite3/storage.ide-wal
+MyYouthFutures/bin/Debug/netcoreapp2.0/MyYouthFutures.dll
+MyYouthFutures/bin/Debug/netcoreapp2.0/MyYouthFutures.pdb
+MyYouthFutures/obj/Debug/netcoreapp2.0/MyYouthFutures.csproj.CoreCompileInputs.cache
+MyYouthFutures/obj/Debug/netcoreapp2.0/MyYouthFutures.dll
+>>>>>>> parent of cae2342... Merge branch 'scotthadzik'

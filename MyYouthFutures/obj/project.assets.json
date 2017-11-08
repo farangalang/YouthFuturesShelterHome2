@@ -13127,11 +13127,15 @@
     "restore": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of cae2342... Merge branch 'scotthadzik'
       "projectUniqueName": "C:\\Users\\Jared\\Documents\\GitHub\\YouthFuturesShelterHome2\\MyYouthFutures\\MyYouthFutures.csproj",
       "projectName": "MyYouthFutures",
       "projectPath": "C:\\Users\\Jared\\Documents\\GitHub\\YouthFuturesShelterHome2\\MyYouthFutures\\MyYouthFutures.csproj",
       "packagesPath": "C:\\Users\\Jared\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Jared\\Documents\\GitHub\\YouthFuturesShelterHome2\\MyYouthFutures\\obj\\",
+<<<<<<< HEAD
 =======
       "projectUniqueName": "C:\\Users\\Scott\\Box Sync\\Personal\\CS (scotthadzik@weber.edu)\\CS 3750\\YouthFuturesShelterHome2\\MyYouthFutures\\MyYouthFutures.csproj",
       "projectName": "MyYouthFutures",
@@ -13146,6 +13150,8 @@
       "packagesPath": "C:\\Users\\Jared\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Jared\\Documents\\GitHub\\NewYouthFutures\\MyYouthFutures\\MyYouthFutures\\obj\\",
 >>>>>>> parent of 33e5124... modified panels
+=======
+>>>>>>> parent of cae2342... Merge branch 'scotthadzik'
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
